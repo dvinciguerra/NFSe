@@ -1,4 +1,9 @@
-NFSe
-====
 
-Implementações para utilizar e hackear NFS-e
+NAME
+NFSe Implementations
+
+DESCRIPTION
+Implementações, scripts e codigos uteis para quem esta trabalhando com NFS-e.
+
+AUTHOR
+2012 (c) Daniel Vinciguerra
